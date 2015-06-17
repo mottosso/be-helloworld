@@ -1,2 +1,2 @@
-asset: "{cwd}/{project}/assets/{item}/{type}"
+asset: "{cwd}/{project}/assets/{item}/{task}"
 shot: "{cwd}/{project}/shots/{item}"
