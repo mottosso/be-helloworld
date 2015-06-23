@@ -1,5 +1,7 @@
 {
     "schema_version" : "0.0.1",
     "type" : "bepreset",
-    "details": "https://github.com/mottosso/be-helloworld"
+    "description": "A generic game project configuration to demonstrate the features of be",
+    "thumbnail": "thumbnail.png",
+    "link": "https://github.com/mottosso/be-helloworld"
 }
